@@ -97,10 +97,6 @@ $ vagrant ssh
 
 > Crucible will be available on http://localhost:8080 on the host machine.
 
-# Support & Feature Requests
-
-Leave a message and ask questions on Hipchat: [blacklabelops/hipchat](https://www.hipchat.com/geogBFvEM)
-
 # References
 
 * [Atlassian Crucible](https://www.atlassian.com/software/crucible)
